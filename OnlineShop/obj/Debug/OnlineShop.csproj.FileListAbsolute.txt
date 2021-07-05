@@ -1,0 +1,16 @@
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Category.resources
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Properties.Resources.resources
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.GenerateResource.cache
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\bin\Debug\MySql.Data.dll
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.ItemDetails.resources
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.login.resources
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Registrationform.resources
+C:\Users\Zerpsteve\Documents\OnlineShop\OnlineShop\obj\Debug\OnlineShop.cartform.resources
